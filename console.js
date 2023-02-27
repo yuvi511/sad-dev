@@ -9,4 +9,6 @@ function main(){
 
 console.log("Hello World");
 
+alert("Enter Your Name");
+
 //console.log(main)
