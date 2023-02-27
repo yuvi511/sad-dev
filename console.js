@@ -7,5 +7,6 @@ function main(){
   return null
 }
 
+console.log("Hello World");
 
 //console.log(main)
